@@ -1,0 +1,8 @@
+h1 {
+    color: Red;
+    border-width: 1px;
+    border-color: orchid;
+    border-style: double;
+    background-color: peachpuff;
+    border-radius: 5px;
+}
