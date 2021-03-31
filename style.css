@@ -1,28 +1,37 @@
-h1 {
+@font-face {
+    font-family: "Penguin Font";
+    src: url(Fonts/Penguin-Regular.ttf);
+}
+
+html {
+    font-family: "Penguin Font";
+}
+
+h1 {  
    color: darkblue;
-   font-style: oblique;
+   
 }
 body {
     background-color: peachpuff;
 }
 h2 {
      color: darkblue;
-   font-style: oblique;
+  
 }
 
 h3 {
      color: darkblue;
-   font-style: oblique;
+  
 }
 
 h4 {
      color: darkblue;
-   font-style: oblique;
+   
 }
 
 h5 {
      color: darkblue;
-   font-style: oblique;
+ 
 }
 
 h6 {
